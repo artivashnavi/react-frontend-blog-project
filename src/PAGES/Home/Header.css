@@ -19,14 +19,14 @@
   
   #Pic .one .Text {
     font-size: 34px;
-    color: orangered;
+    color: white;
     position: relative;
     top: 265px;
     left: 180px;
   }
   
   #Pic .one .Text .Traval {
-    color: rgb(220, 15, 15);
+    color: gray;
     font-size: 20px;
     position: relative;
     left: 65px;
