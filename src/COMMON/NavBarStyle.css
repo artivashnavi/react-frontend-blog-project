@@ -9,6 +9,7 @@
     width: 90%;
     margin-left: 5%;
     height: 10vh;
+   
 
 }
 .nav-links{
@@ -65,6 +66,7 @@ button{
         width: 90%;
         line-height: 2.5rem;
         text-align: center;
+        Z-index:+1;
     }
     .mobile-menu-icon{
         position: absolute;
@@ -72,6 +74,7 @@ button{
         right: 5rem;
         top: -.5rem;
         background: none;
+        Z-index:+1;
     }
     button{
         color: white;
