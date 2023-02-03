@@ -26,7 +26,7 @@
   }
   
   #Pic .one .Text .Traval {
-    color: gray;
+    color: darkgray;
     font-size: 20px;
     position: relative;
     left: 65px;
@@ -48,7 +48,7 @@
   }
   
   #Pic .two .Text .Traval {
-    color: rgb(146, 143, 143);
+    color: darkgray;
     font-size: 20px;
   }
   
@@ -68,6 +68,6 @@
   }
   
   #Pic .three .Text .Traval {
-    color: rgb(156, 153, 153);
+    color: darkgray;
     font-size: 20px;
   }
