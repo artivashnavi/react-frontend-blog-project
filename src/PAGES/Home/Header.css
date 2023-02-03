@@ -71,3 +71,14 @@
     color: darkgray;
     font-size: 20px;
   }
+@media screen and (max-width:400px) {
+    #Pic {
+    grid-gap: 15px;
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: 20px;
+    margin-right: 100px;
+    margin-top: 5rem;
+    padding: 20px;
+}
+}
