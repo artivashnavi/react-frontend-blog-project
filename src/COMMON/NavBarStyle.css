@@ -60,7 +60,7 @@ button{
         position: absolute;
         display: block;
         list-style: none;
-        top: 10%;
+        top: 9.6%;
         transition: all .5s ease-in-out;
         background-color: rgb(3, 73, 73);
         width: 90%;
